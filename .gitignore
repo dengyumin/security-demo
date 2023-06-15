@@ -75,6 +75,8 @@ hs_err_pid*
 # *.ipr
 .mvn
 
+target
+
 # CMake
 cmake-build-*/
 
